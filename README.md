@@ -1,2 +1,2 @@
 # python-program
-All Java lang at one place 
+All python lang at one place 
