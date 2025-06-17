@@ -1,10 +1,3 @@
-Absolutely! Below is a more complete, **short and clear** `notes.md` version for Chapter 1. It includes brief explanations and examples for better understanding, and it's formatted for Markdown as you'd include in your project.
-
----
-
-### ✅ `notes.md` – Chapter 1: Modules, Comments & pip
-
-````markdown
 # Chapter 1: Modules, Comments & pip
 
 ---
