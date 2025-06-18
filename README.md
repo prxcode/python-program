@@ -1,2 +1,2 @@
 # python-program
-All python lang at one place
+All python programming at one place
